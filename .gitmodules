@@ -1,0 +1,3 @@
+[submodule "algorithms/TheAlgorithms/Dart"]
+	path = algorithms/TheAlgorithms/Dart
+	url = https://github.com/TheAlgorithms/Dart.git
